@@ -1,0 +1,10 @@
+print(input("문장을 입력해주세요"))
+
+number1 = int(input("숫자를 입력하세요"))
+number2 = int(input("숫자를 입력하세요"))
+print(number1 + number2)
+print(number1 - number2)
+print(number1 * number2)
+print(number1 / number2)
+print(number1 // number2)
+print(number1 % number2)
