@@ -1,0 +1,1 @@
+print ("I love weekends'new song ! ")
