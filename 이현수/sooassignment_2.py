@@ -1,4 +1,4 @@
-num_1,num_2=input("숫자 두개를 입력해주세요:").split(".")
+num_1,num_2=input("숫자 두개를 입력해주세요:").split(",")
 num_1=int(num_1)
 num_2=int(num_2)
 print("더하기:i+j=",num_1+num_2)
