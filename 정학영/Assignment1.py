@@ -1,0 +1,10 @@
+i = input("입력하세요: ")
+print(i)
+a,b = input("숫자입력: ").split()
+a = int(a)
+b = int(b)
+print("a+b=", a+b)
+print("a-b=", a-b)
+print("a*b=", a*b)
+print("a/b=", a/b)
+
