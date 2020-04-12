@@ -43,6 +43,7 @@ print("곱하기 a * b =", a * b)
 print("나누기 a / b =", a / b)
 print("제곱 a ** b =", a ** b)
 
+# 3
 a = int(input("3. 첫 번째 숫자 입력 : "))
 b = int(input("두 번째 숫자 입력 : "))
 
