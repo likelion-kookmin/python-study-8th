@@ -10,7 +10,7 @@ git checkout <자기이름>
 
 # 아래의 3개의 명령어는 과제를 수행할 때마다 사용하시면 됩니다.
 git add .
-git commit -m "1주차 과제"
+git commit -m "(허태정) 1주차 과제"
 git push origin <자기이름>
 ```
 
@@ -22,8 +22,11 @@ git push origin <자기이름>
 + 대신에 몇주차의 몇번 과제인지는 명시해주세요.
 
 
-
 ### 예시)
 예시는 허태정 폴더에 들어가시면 확인하실 수 있습니다.  
   + 허태정/Assignment1-1.py  
   + 허태정/Assignment1-2.py
+  
+### 과제 제출 후
+1. Pull request 만들기
+2. 멘토가 체크하고 Merge해주기
