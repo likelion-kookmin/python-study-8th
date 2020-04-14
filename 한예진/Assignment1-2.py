@@ -1,8 +1,3 @@
-# 과제1 - 그대로 출력하기
-hi = input('문장을 입력해주세요: ')
-print(hi)
-
-
 # 과제2 - 계산기 만들기
 number = input('숫자 두 개를 입력해주세요: ').split(',')
 x, y = int(number[0]), int(number[1])
