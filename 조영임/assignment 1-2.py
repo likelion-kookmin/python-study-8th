@@ -1,0 +1,10 @@
+num=input("숫자 두 개를 입력하세요: ").split()
+a=int(num[0])
+b=int(num[1])
+
+print("더하기: a+b=%d"%(a+b))
+print("빼기: a-b=%d "%(a-b))
+print("곱하기: a x b = ",a*b)
+print("나누기: a / b = ",a/b)
+print(f"나머지없이: a // b = {a//b}")
+print(f"나머지만: a % b = {a%b}")
