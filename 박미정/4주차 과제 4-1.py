@@ -19,4 +19,3 @@ print(cal.mul(4, 3))
 print(cal.div(100, 10))
 print(cal.quo(10, 2))
 print(cal.remain(10, 3))
-
